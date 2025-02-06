@@ -5,6 +5,7 @@
 - Skills : Python, SQL, Tableau, Excel, Python Libraries, EDA Fundamentals
 - 💞️ I’m also a very Enthusiastic Stock Trader
 - 📫 You can reach me @sharath141194@gmail.com
+- My LinkedIn - www.linkedin.com/in/sharath-santhosh-b68810257
 
 
 <!---
